@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="6acbb10c-45c0-48d7-bdd3-44ce4bbca3e1" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Na konci chřipky je krásně</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Až od Aše až po Kocourkov</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Botě je hej</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Byla jak obrázek</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Deštivé ráno za oknem</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Do české pneumatiky</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Dva nenápadní delfíni</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Dobře vím, že jsi šedivá</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Franta mi nabídl akcie</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Charisma Charisma</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Já bych chtěl jíst!</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Jedna činka</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Jsem povahou oblak</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Jsem vyhořelé palivo</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Každý den špatně začíná</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Každý je svého štěstí</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Kdybych byl drakem, přál bych si k svátku</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Kdykoliv spadnu z lešení</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Když usnu</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Kluci a holky z masmédií</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Kobercový nálet</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Kyslíkem zpitý potápěč</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Lidský trup v písku ztroskotán</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Majitel čajovny z Šanghaje</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Mám starosti</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Mé bio-hodiny</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Měl jsem dobrou vůli</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Mrakodrap chytil rýmu</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Na útěku</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Náměsíčná žaluzie</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Nejmenovaný astronom</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Největší jáma je Fudžijáma</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Nevolte královnu krásy</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Nezdálo by se mi</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Než se fotr vrátí</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Občasný návštěvník kaváren</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Ocit se jeden dentista</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_040.html"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Parlament si odhlasoval</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_041.html"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Potkal jsem v zrcadle</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_042.html"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Potkalo se moje Ego</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_043.html"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Poznal jsem príma balerínu</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_044.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Poznali jsme se</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_045.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Rád bych jednou namaloval rozesmátou sfingu</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_046.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Říkal mi jeden lodivod</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_047.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Skáče, skáče ranní ptáče</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_048.html"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>S ječným zrnem, žitným lánem</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_049.html"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Sluníčko na zápraží</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_050.html"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Šel jsem sám</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_051.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Šel starý baron pro uhlí</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_052.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Ten práh, kde stojíš</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_053.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>To nebyl pasák</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_054.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Ubývá mi mezer mezi zuby</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_055.html"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Uč se Franto esperanto</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_056.html"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Upekl jsem sestřenici</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_057.html"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Usměvavý pan Nykodým</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_058.html"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>V jediném dešti</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_059.html"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Viděl jsem na dně kaňonu</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_060.html"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Vycenil na mne svůj jícen</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_061.html"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Vydal se flétnista</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_062.html"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Zaslechl jeden policist</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_063.html"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Na konci chřipky je krásně</text>
+      </navLabel>
+      <content src="Text/na_konci_chripky_je_krasne_064.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
