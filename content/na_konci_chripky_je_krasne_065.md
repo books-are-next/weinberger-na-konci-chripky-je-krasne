@@ -2,9 +2,9 @@
 contentType: prose
 ---
 
-Jiří Weinberger
+**Jiří Weinberger**
 
-Na konci chřipky je krásně
+**Na konci chřipky je krásně**
 
 Edice Literatura pro děti a mládež
 
