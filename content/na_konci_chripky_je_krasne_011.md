@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Dobře vím, že jsi šedivá
 
 Mozková kůro!  
@@ -18,3 +20,5 @@ ustřihl knot a propadl se nocí
 
 Zůstal jenom ten idiot  
 který tě v lebce nosí
+
+</section>

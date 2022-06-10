@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Viděl jsem na dně kaňonu
 
 stát po kolena v ozónu  
@@ -38,3 +40,5 @@ Stál jsem tam hladce oholen
 Vánek hovořil s lukami  
 Bizoni blbli s muchami  
 A ozón jim byl ukraden
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Potkal jsem v zrcadle
 
 obličej na sádle  
@@ -46,3 +48,5 @@ dukát a stopu
 v Tvém horoskopu  
 ztratil jsem stopu  
 po perleťové rtěnce
+
+</section>

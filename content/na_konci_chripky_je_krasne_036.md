@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Nevolte královnu krásy
 
 Volte Miss Kompromis  
@@ -12,3 +14,5 @@ Věnujte pozornost cedulkám
 Milujte státní správu  
 A při výstupu na vulkán  
 nevypalujte trávu
+
+</section>

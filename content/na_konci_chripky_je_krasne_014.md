@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Já bych chtěl jíst!
 
 Ty bys zas jed?  
@@ -22,3 +24,5 @@ Já bych chtěl jít!
 Ty bys zas šel?  
 Šel bych a šel.  
 Až na Měsíc.
+
+</section>

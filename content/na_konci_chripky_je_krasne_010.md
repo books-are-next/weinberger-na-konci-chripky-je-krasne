@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Dva nenápadní delfíni
 
 uhnízdili se v kuchyni  
@@ -17,3 +19,5 @@ Ať padne komu padne
 Žádám pro všechny delfíny  
 vnadné i nenápadné  
 presumpci neviny
+
+</section>

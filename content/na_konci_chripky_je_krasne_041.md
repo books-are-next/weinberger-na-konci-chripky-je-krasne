@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Parlament si odhlasoval
 
 imunitu proti chřipce  
@@ -32,3 +34,5 @@ Carpe diem!
 Carpe diem!  
 dokud žijem’  
 buďme zbyteční
+
+</section>

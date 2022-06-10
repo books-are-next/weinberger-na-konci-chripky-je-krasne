@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Lidský trup v písku ztroskotán
 
 vysílen leží trojskokan  
@@ -20,3 +22,5 @@ Ponaučení z toho plyne
         zvládnutí  
                  početních  
                            úkonů
+
+</section>

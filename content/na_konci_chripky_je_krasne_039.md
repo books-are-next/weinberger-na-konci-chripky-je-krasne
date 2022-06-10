@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Občasný návštěvník kaváren
 
 fascinován byl komárem
@@ -14,3 +16,5 @@ hned si mu sedal na moučník
 
 A jejich vztah byl intimní  
 Když nechceš, tak mě vyplivni
+
+</section>

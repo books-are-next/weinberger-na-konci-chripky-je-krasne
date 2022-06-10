@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Na konci chřipky je krásně](https://aleph.nkp.cz/F/?func=direct&doc_number=001641511&local_base=CNB) tak, jak bylo vydáno v Brně nakladatelstvím Šimon Ryšavý v roce 2005.
 
 * * *
@@ -23,3 +25,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 Verze 1.0 z 30. 11. 2017.
 
 ![](../Images/image002.png)
+
+</section>

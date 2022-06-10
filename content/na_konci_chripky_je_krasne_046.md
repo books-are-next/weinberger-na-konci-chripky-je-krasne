@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Rád bych jednou namaloval rozesmátou sfingu
 
 jak si zkouší po snídani prvky windsurfingu  
@@ -20,3 +22,5 @@ jak si zkouší po večeři prvky windsurfingu
 Jak se mokrá pěkně leskne  
 a jak na ni košile schne  
 Rád bych jednou namaloval rozesmátou sfingu
+
+</section>

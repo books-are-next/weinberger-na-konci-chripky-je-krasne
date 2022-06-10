@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Usměvavý pan Nykodým
 
 pracoval jako anonym
@@ -11,3 +13,5 @@ i výplatní pásku
 a na vše říkal Ano i Ne
 
 Byl dobrým anonymem
+
+</section>

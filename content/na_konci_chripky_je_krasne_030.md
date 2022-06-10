@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Měl jsem dobrou vůli
 
 a napřel všechny síly  
@@ -26,3 +28,5 @@ správným směrem
 (:Však vektory  
 ty potvory  
 se posčítaly jinak:)
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Jsem vyhořelé palivo
 
 které si samo hledá úložiště  
@@ -32,3 +34,5 @@ kde v duši skučí
 (::V duši skučí::)
 
 Periférié
+
+</section>

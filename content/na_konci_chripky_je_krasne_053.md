@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Ten práh, kde stojíš
 
 patří stáří  
@@ -10,3 +12,5 @@ Nehneš ni brvou
 Práh vrže a vrže
 
 Tak to chodívá
+
+</section>

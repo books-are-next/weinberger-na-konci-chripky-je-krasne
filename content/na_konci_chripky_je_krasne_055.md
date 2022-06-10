@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Ubývá mi mezer mezi zuby
 
 zvedá se jižní vítr  
@@ -22,3 +24,5 @@ Z tvých ramen blýskl flitr
 A mezi zuby mezer ubývá mi  
 Co zbylo z dámy chutná mi  
 Chutná mi bitter
+
+</section>

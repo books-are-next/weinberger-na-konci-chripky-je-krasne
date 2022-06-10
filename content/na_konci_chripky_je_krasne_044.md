@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Poznal jsem príma balerínu
 
 ta nezná kašel, ani rýmu
@@ -14,3 +16,5 @@ Jen bezdrátovým mobilem
 lze si s ní zaševelit
 
 Líbá jen přes igelit
+
+</section>

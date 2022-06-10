@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 **Jiří Weinberger**
 
 **Na konci chřipky je krásně**
@@ -25,3 +27,5 @@ ISBN 978-80-7587-519-8 (pdf)
 ISBN 978-80-7587-520-4 (prc)
 
 ISBN 978-80-7587-521-1 (html)
+
+</section>

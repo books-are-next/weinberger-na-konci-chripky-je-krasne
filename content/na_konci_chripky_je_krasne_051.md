@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Šel jsem sám
 
 cestou necestou  
@@ -18,3 +20,5 @@ do nohavic
 a to je všechno.
 
 Neměl jsem na víc.
+
+</section>

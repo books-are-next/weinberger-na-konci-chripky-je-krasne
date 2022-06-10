@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Sluníčko na zápraží
 
 do láhve s dobrou vodou praží
@@ -23,3 +25,5 @@ Sluníčko však už zapadá
 za starou Zeměkouli  
 Bublinka do červánků  
 své rybí oko poulí
+
+</section>

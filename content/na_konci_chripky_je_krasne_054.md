@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## To nebyl pasák
 
 to byl lampasák  
@@ -21,3 +23,5 @@ Nebyl to totiž lampasák
 byl to, nanejvýš, pasák lam
 
 Anebo jen optický klam?
+
+</section>

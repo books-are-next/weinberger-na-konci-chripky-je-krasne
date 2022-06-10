@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Zaslechl jeden policist
 
 vlastní píšťalky ostrý svist
@@ -11,3 +13,5 @@ pochopil rázem celý systém
 
 Systém pochopil a byl si jist  
 že to byl nejšťastnější svist
+
+</section>
