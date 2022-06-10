@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Kobercový nálet
 
 létajících koberců  
@@ -22,3 +24,5 @@ Procitnout a omdlít
 narodit se znova  
 a než zazní ouvertura  
 zkorumpovat sudičky
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Největší jáma je Fudžijáma
 
 Pokud to ovšem není fáma
@@ -18,3 +20,5 @@ Nejdelší bajka je bajbajbajka
 I ta však má konec
 
 Bajbaj!
+
+</section>

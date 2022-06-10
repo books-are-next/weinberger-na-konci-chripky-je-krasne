@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Nejmenovaný astronom
 
 Z Veselí nad Lužnicí  
@@ -42,3 +44,5 @@ A ze vrat mává baterkou
 Astronom z Gastronomu  
 A líbá se tam s Večerkou  
 Na ústa u sta hromů
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Každý den špatně začíná
 
 oč krásnější je zůstat spáčem  
@@ -22,3 +24,5 @@ Den ve snu je jen vidina
 čistá jak pole bez oráče  
 má účast není povinná  
 a ranní ptáče ať si skáče dál
+
+</section>

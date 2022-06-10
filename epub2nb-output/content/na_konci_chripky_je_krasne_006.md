@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Botě je hej
 
 bota si žije  
@@ -14,3 +16,5 @@ Třetí den
 zas jen nejistota  
 Až budu velká  
 budu bota
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Říkal mi jeden lodivod
 
 že mu jde kolikrát o život  
@@ -22,3 +24,5 @@ se svojí blondýnou na klíně
 bydlí
 
 A basta fidli!
+
+</section>

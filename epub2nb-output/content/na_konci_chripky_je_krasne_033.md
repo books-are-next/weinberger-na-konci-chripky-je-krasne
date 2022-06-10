@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Náměsíčná žaluzie
 
 ze žalu žije  
@@ -19,3 +21,5 @@ Ze žalu žije
 a mág má magma.
 
 Magma.
+
+</section>

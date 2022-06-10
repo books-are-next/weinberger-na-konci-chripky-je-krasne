@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Byla jak obrázek
 
 který mě provázel  
@@ -62,3 +64,5 @@ Byla jak obrázek
 byla jak provázek  
 byla jak copánek  
 který se rozpustí
+
+</section>

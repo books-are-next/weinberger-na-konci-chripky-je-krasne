@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Každý je svého štěstí
 
 bourcem morušovým  
@@ -31,3 +33,5 @@ na náměstí
 na předměstí  
 i v neštěstí  
 hledá štěstí
+
+</section>

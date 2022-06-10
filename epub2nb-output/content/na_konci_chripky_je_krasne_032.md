@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Na útěku
 
 Odkud Kam  
@@ -16,3 +18,5 @@ Odkud? Kam?
 Odkud? Kam?  
 Od Odnikud  
 do Nikam
+
+</section>

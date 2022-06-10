@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## V jediném dešti
 
 jsou všechny deště  
@@ -17,3 +19,5 @@ Jen v jediném dešti
 je všechen žal  
 jen v jediném dešti  
 jenž nenastal
+
+</section>

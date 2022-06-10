@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Kluci a holky z masmédií
 
 ti si žijou  
@@ -30,3 +32,5 @@ Proč tak smutně bijete?
 
 Kluci a holky z masmédií  
 Ti si žijou
+
+</section>

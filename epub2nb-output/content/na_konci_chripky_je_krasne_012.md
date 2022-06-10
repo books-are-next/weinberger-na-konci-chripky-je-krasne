@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Franta mi nabídl akcie
 
 a já mu řekla  
@@ -20,3 +22,5 @@ a já si vzala Frantu
 Však investuji s Pepou!
 
 A pojmy se mi pletou
+
+</section>

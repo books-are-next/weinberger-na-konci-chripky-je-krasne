@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Uč se Franto esperanto
 
 Esperanto esperanto  
@@ -17,3 +19,5 @@ esperantem esperantem es
 tolik řek mu v hlavě šumí  
 tolik různých potoků  
 mu šplouchá do kroku:)
+
+</section>

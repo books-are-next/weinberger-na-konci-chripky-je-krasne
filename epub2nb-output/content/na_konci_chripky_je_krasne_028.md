@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Mám starosti
 
 staré kosti  
@@ -22,3 +24,5 @@ na které jsem bez lítosti
 oplzlý a zlý a sprostý  
 když mě ve snech bolí kosti  
 když jsem všem jen pro posměch
+
+</section>

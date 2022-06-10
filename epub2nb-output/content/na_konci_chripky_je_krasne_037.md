@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Nezdálo by se mi
 
 že je velké ticho  
@@ -22,3 +24,5 @@ Co se mi to tenkrát
 snad jen ve snu zdálo  
 Už si nevzpomenu  
 Už nevím čí jsem
+
+</section>

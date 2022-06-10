@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Jsem povahou oblak
 
 jak tulák Charlie  
@@ -12,3 +14,5 @@ Jsem oblak a polapen
 do lží a do pyžam  
 Měním se pod tlakem  
 Jsem povahou bodlák
+
+</section>

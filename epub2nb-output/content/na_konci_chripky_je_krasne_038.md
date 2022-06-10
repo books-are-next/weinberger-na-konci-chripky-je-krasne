@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Než se fotr vrátí
 
 ze služebních cest  
@@ -66,3 +68,5 @@ abecedou Morseovou
 láme klacek nad svou vdovou  
 Abecedou Morseovou  
 boří tmářské doktríny
+
+</section>

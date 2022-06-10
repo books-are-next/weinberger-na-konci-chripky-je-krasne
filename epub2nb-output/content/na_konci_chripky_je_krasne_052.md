@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Šel starý baron pro uhlí
 
 a byl už celý potrhlý
@@ -49,3 +51,5 @@ rovně za nosem
 po špičkách  
 po patách  
 s patosem?
+
+</section>

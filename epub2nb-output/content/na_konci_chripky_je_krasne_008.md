@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Deštivé ráno za oknem
 
 pod oknem kvete můj  
@@ -12,3 +14,5 @@ mává haluzemi
 
 Nezaprší-li  
 nezmoknem
+
+</section>
