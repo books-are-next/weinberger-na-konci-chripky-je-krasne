@@ -20,7 +20,7 @@ Nadarmos’ líbal ikonu
 Ponaučení z toho plyne  
 že klíčem k této disciplíně  
         zvládnutí  
-                 početních  
-                           úkonů
+             početních  
+             úkonů
 
 </section>
