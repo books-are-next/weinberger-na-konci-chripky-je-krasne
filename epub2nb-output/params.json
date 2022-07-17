@@ -42,9 +42,9 @@
             "filename": "na_konci_chripky_je_krasne_001.md",
             "xhtml": "na_konci_chripky_je_krasne_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -54,9 +54,9 @@
             "filename": "na_konci_chripky_je_krasne_002.md",
             "xhtml": "na_konci_chripky_je_krasne_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -66,9 +66,9 @@
             "filename": "na_konci_chripky_je_krasne_003.md",
             "xhtml": "na_konci_chripky_je_krasne_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -78,9 +78,9 @@
             "filename": "na_konci_chripky_je_krasne_004.md",
             "xhtml": "na_konci_chripky_je_krasne_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -96,7 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Až od Aše až po Kocourkov"
           },
           {
             "filename": "na_konci_chripky_je_krasne_006.md",
@@ -108,7 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Botě je hej"
           },
           {
             "filename": "na_konci_chripky_je_krasne_007.md",
@@ -120,7 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Byla jak obrázek"
           },
           {
             "filename": "na_konci_chripky_je_krasne_008.md",
@@ -132,7 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Deštivé ráno za oknem"
           },
           {
             "filename": "na_konci_chripky_je_krasne_009.md",
@@ -144,7 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Do české pneumatiky"
           },
           {
             "filename": "na_konci_chripky_je_krasne_010.md",
@@ -156,7 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dva nenápadní delfíni"
           },
           {
             "filename": "na_konci_chripky_je_krasne_011.md",
@@ -168,7 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobře vím, že jsi šedivá"
           },
           {
             "filename": "na_konci_chripky_je_krasne_012.md",
@@ -180,7 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Franta mi nabídl akcie"
           },
           {
             "filename": "na_konci_chripky_je_krasne_013.md",
@@ -192,7 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Charisma Charisma"
           },
           {
             "filename": "na_konci_chripky_je_krasne_014.md",
@@ -204,7 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Já bych chtěl jíst!"
           },
           {
             "filename": "na_konci_chripky_je_krasne_015.md",
@@ -216,7 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jedna činka"
           },
           {
             "filename": "na_konci_chripky_je_krasne_016.md",
@@ -228,7 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jsem povahou oblak"
           },
           {
             "filename": "na_konci_chripky_je_krasne_017.md",
@@ -240,7 +252,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jsem vyhořelé palivo"
           },
           {
             "filename": "na_konci_chripky_je_krasne_018.md",
@@ -252,7 +265,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Každý den špatně začíná"
           },
           {
             "filename": "na_konci_chripky_je_krasne_019.md",
@@ -264,7 +278,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Každý je svého štěstí"
           },
           {
             "filename": "na_konci_chripky_je_krasne_020.md",
@@ -276,7 +291,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kdybych byl drakem, přál bych si k svátku"
           },
           {
             "filename": "na_konci_chripky_je_krasne_021.md",
@@ -288,7 +304,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kdykoliv spadnu z lešení"
           },
           {
             "filename": "na_konci_chripky_je_krasne_022.md",
@@ -300,7 +317,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Když usnu"
           },
           {
             "filename": "na_konci_chripky_je_krasne_023.md",
@@ -312,7 +330,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kluci a holky z masmédií"
           },
           {
             "filename": "na_konci_chripky_je_krasne_024.md",
@@ -324,7 +343,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kobercový nálet"
           },
           {
             "filename": "na_konci_chripky_je_krasne_025.md",
@@ -336,7 +356,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kyslíkem zpitý potápěč"
           },
           {
             "filename": "na_konci_chripky_je_krasne_026.md",
@@ -348,7 +369,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lidský trup v písku ztroskotán"
           },
           {
             "filename": "na_konci_chripky_je_krasne_027.md",
@@ -360,7 +382,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Majitel čajovny z Šanghaje"
           },
           {
             "filename": "na_konci_chripky_je_krasne_028.md",
@@ -372,7 +395,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Mám starosti"
           },
           {
             "filename": "na_konci_chripky_je_krasne_029.md",
@@ -384,7 +408,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Mé bio-hodiny"
           },
           {
             "filename": "na_konci_chripky_je_krasne_030.md",
@@ -396,7 +421,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Měl jsem dobrou vůli"
           },
           {
             "filename": "na_konci_chripky_je_krasne_031.md",
@@ -408,7 +434,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Mrakodrap chytil rýmu"
           },
           {
             "filename": "na_konci_chripky_je_krasne_032.md",
@@ -420,7 +447,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Na útěku"
           },
           {
             "filename": "na_konci_chripky_je_krasne_033.md",
@@ -432,7 +460,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Náměsíčná žaluzie"
           },
           {
             "filename": "na_konci_chripky_je_krasne_034.md",
@@ -444,7 +473,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nejmenovaný astronom"
           },
           {
             "filename": "na_konci_chripky_je_krasne_035.md",
@@ -456,7 +486,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Největší jáma je Fudžijáma"
           },
           {
             "filename": "na_konci_chripky_je_krasne_036.md",
@@ -468,7 +499,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nevolte královnu krásy"
           },
           {
             "filename": "na_konci_chripky_je_krasne_037.md",
@@ -480,7 +512,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nezdálo by se mi"
           },
           {
             "filename": "na_konci_chripky_je_krasne_038.md",
@@ -492,7 +525,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Než se fotr vrátí"
           },
           {
             "filename": "na_konci_chripky_je_krasne_039.md",
@@ -504,7 +538,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Občasný návštěvník kaváren"
           },
           {
             "filename": "na_konci_chripky_je_krasne_040.md",
@@ -516,7 +551,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ocit se jeden dentista"
           },
           {
             "filename": "na_konci_chripky_je_krasne_041.md",
@@ -528,7 +564,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Parlament si odhlasoval"
           },
           {
             "filename": "na_konci_chripky_je_krasne_042.md",
@@ -540,7 +577,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Potkal jsem v zrcadle"
           },
           {
             "filename": "na_konci_chripky_je_krasne_043.md",
@@ -552,7 +590,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Potkalo se moje Ego"
           },
           {
             "filename": "na_konci_chripky_je_krasne_044.md",
@@ -564,7 +603,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznal jsem príma balerínu"
           },
           {
             "filename": "na_konci_chripky_je_krasne_045.md",
@@ -576,7 +616,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznali jsme se"
           },
           {
             "filename": "na_konci_chripky_je_krasne_046.md",
@@ -588,7 +629,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rád bych jednou namaloval rozesmátou sfingu"
           },
           {
             "filename": "na_konci_chripky_je_krasne_047.md",
@@ -600,7 +642,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Říkal mi jeden lodivod"
           },
           {
             "filename": "na_konci_chripky_je_krasne_048.md",
@@ -612,7 +655,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Skáče, skáče ranní ptáče"
           },
           {
             "filename": "na_konci_chripky_je_krasne_049.md",
@@ -624,7 +668,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "S ječným zrnem, žitným lánem"
           },
           {
             "filename": "na_konci_chripky_je_krasne_050.md",
@@ -636,7 +681,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sluníčko na zápraží"
           },
           {
             "filename": "na_konci_chripky_je_krasne_051.md",
@@ -648,7 +694,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Šel jsem sám"
           },
           {
             "filename": "na_konci_chripky_je_krasne_052.md",
@@ -660,7 +707,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Šel starý baron pro uhlí"
           },
           {
             "filename": "na_konci_chripky_je_krasne_053.md",
@@ -672,7 +720,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ten práh, kde stojíš"
           },
           {
             "filename": "na_konci_chripky_je_krasne_054.md",
@@ -684,7 +733,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "To nebyl pasák"
           },
           {
             "filename": "na_konci_chripky_je_krasne_055.md",
@@ -696,7 +746,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ubývá mi mezer mezi zuby"
           },
           {
             "filename": "na_konci_chripky_je_krasne_056.md",
@@ -708,7 +759,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Uč se Franto esperanto"
           },
           {
             "filename": "na_konci_chripky_je_krasne_057.md",
@@ -720,7 +772,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Upekl jsem sestřenici"
           },
           {
             "filename": "na_konci_chripky_je_krasne_058.md",
@@ -732,7 +785,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Usměvavý pan Nykodým"
           },
           {
             "filename": "na_konci_chripky_je_krasne_059.md",
@@ -744,7 +798,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V jediném dešti"
           },
           {
             "filename": "na_konci_chripky_je_krasne_060.md",
@@ -756,7 +811,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Viděl jsem na dně kaňonu"
           },
           {
             "filename": "na_konci_chripky_je_krasne_061.md",
@@ -768,7 +824,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vycenil na mne svůj jícen"
           },
           {
             "filename": "na_konci_chripky_je_krasne_062.md",
@@ -780,7 +837,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vydal se flétnista"
           },
           {
             "filename": "na_konci_chripky_je_krasne_063.md",
@@ -792,7 +850,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zaslechl jeden policist"
           },
           {
             "filename": "na_konci_chripky_je_krasne_064.md",
@@ -804,15 +863,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Na konci chřipky je krásně"
           },
           {
             "filename": "na_konci_chripky_je_krasne_065.md",
             "xhtml": "na_konci_chripky_je_krasne_065.html",
             "id": 64,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -1304,6 +1364,6 @@
       "user": "books-are-next",
       "repo": "weinberger-na-konci-chripky-je-krasne"
     },
-    "generatedAt": 1658073014869
+    "generatedAt": 1658073534296
   }
 }
