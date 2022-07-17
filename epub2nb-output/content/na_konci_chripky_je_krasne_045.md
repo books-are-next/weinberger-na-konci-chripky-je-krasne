@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Poznali jsme se
+contentType: poetry
 ---
 
 <section>
-
-## Poznali jsme se
 
 v aerodynamickém tunelu
 

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Vycenil na mne svůj jícen
+contentType: poetry
 ---
 
 <section>
-
-## Vycenil na mne svůj jícen
 
 a já mu z něj vytáhl svícen
 

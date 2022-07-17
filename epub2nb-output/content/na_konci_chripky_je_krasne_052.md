@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Šel starý baron pro uhlí
+contentType: poetry
 ---
 
 <section>
-
-## Šel starý baron pro uhlí
 
 a byl už celý potrhlý
 

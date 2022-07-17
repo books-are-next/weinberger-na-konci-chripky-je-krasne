@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Občasný návštěvník kaváren
+contentType: poetry
 ---
 
 <section>
-
-## Občasný návštěvník kaváren
 
 fascinován byl komárem
 

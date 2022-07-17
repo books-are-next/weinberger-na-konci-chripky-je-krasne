@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Měl jsem dobrou vůli
+contentType: poetry
 ---
 
 <section>
-
-## Měl jsem dobrou vůli
 
 a napřel všechny síly  
 správným směrem

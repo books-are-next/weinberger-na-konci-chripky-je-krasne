@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Rád bych jednou namaloval rozesmátou sfingu
+contentType: poetry
 ---
 
 <section>
-
-## Rád bych jednou namaloval rozesmátou sfingu
 
 jak si zkouší po snídani prvky windsurfingu  
 Jak jí sluší bílá plachta  

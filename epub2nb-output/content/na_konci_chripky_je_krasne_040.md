@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ocit se jeden dentista
+contentType: poetry
 ---
 
 <section>
-
-## Ocit se jeden dentista
 
 na ocet týž den kdy bez místa  
 Protože dneska dentista  

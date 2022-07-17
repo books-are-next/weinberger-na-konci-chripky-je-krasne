@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Sluníčko na zápraží
+contentType: poetry
 ---
 
 <section>
-
-## Sluníčko na zápraží
 
 do láhve s dobrou vodou praží
 

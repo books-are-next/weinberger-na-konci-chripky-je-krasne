@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Uč se Franto esperanto
+contentType: poetry
 ---
 
 <section>
-
-## Uč se Franto esperanto
 
 Esperanto esperanto  
 nebuď mamlas, uč se nahlas  

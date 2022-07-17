@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Majitel čajovny z Šanghaje
+contentType: poetry
 ---
 
 <section>
-
-## Majitel čajovny z Šanghaje
 
 dával všem do čaje dva čaje
 

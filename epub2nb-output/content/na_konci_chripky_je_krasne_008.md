@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Deštivé ráno za oknem
+contentType: poetry
 ---
 
 <section>
-
-## Deštivé ráno za oknem
 
 pod oknem kvete můj  
 rodokmen

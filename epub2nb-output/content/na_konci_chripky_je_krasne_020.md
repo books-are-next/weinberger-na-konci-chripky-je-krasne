@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kdybych byl drakem, přál bych si k svátku
+contentType: poetry
 ---
 
 <section>
-
-## Kdybych byl drakem, přál bych si k svátku
 
 dietní sestru, dietní sestru  
 dietní sestru pro každou ze svých  

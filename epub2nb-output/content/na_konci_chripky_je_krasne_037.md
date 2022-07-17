@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nezdálo by se mi
+contentType: poetry
 ---
 
 <section>
-
-## Nezdálo by se mi
 
 že je velké ticho  
 kdyby někde v dálce  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Šel jsem sám
+contentType: poetry
 ---
 
 <section>
-
-## Šel jsem sám
 
 cestou necestou  
 šel jsem a šel jsem  

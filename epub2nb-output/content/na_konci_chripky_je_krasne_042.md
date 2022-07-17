@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Potkal jsem v zrcadle
+contentType: poetry
 ---
 
 <section>
-
-## Potkal jsem v zrcadle
 
 obličej na sádle  
 a v očích na másle  

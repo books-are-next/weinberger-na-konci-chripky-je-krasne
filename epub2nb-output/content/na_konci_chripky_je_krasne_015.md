@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Jedna činka
+contentType: poetry
 ---
 
 <section>
-
-## Jedna činka
 
 druhá činka  
 třetí činka  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Vydal se flétnista
+contentType: poetry
 ---
 
 <section>
-
-## Vydal se flétnista
 
 na Etnu  
 zapsat se do kurzu  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ten práh, kde stojíš
+contentType: poetry
 ---
 
 <section>
-
-## Ten práh, kde stojíš
 
 patří stáří  
 Vrže jak vrata do chlíva  

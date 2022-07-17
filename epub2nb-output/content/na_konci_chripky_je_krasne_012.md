@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Franta mi nabídl akcie
+contentType: poetry
 ---
 
 <section>
-
-## Franta mi nabídl akcie
 
 a já mu řekla  
 „Nech si je“!  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Upekl jsem sestřenici
+contentType: poetry
 ---
 
 <section>
-
-## Upekl jsem sestřenici
 
 taškařici se skořicí  
 Nadrobil jsem sýkorce  

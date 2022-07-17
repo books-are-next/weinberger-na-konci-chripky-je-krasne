@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Na útěku
+contentType: poetry
 ---
 
 <section>
-
-## Na útěku
 
 Odkud Kam  
 Obchodníkům  

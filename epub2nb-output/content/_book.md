@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Na konci chřipky je krásně
   identifier: 6acbb10c-45c0-48d7-bdd3-44ce4bbca3e1
   author: Jiří Weinberger
   publisher: Městská knihovna v Praze
   modified: '2017-12-01T00:00:00.000Z'
+  edition: poezie
+  publisherShort: mkp
+  contentType: poetry
 readingOrder:
   - promo.html
   - na_konci_chripky_je_krasne_001.html
@@ -80,6 +84,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

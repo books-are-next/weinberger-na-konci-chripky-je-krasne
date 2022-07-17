@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Než se fotr vrátí
+contentType: poetry
 ---
 
 <section>
-
-## Než se fotr vrátí
 
 ze služebních cest  
 rozjede to máti  

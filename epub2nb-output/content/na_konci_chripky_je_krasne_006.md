@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Botě je hej
+contentType: poetry
 ---
 
 <section>
-
-## Botě je hej
 
 bota si žije  
 užívá si svá práva  

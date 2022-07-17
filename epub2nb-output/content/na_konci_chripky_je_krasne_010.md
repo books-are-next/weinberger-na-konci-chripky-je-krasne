@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Dva nenápadní delfíni
+contentType: poetry
 ---
 
 <section>
-
-## Dva nenápadní delfíni
 
 uhnízdili se v kuchyni  
 a byla to náhodou kuchyně  

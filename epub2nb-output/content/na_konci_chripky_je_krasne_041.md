@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Parlament si odhlasoval
+contentType: poetry
 ---
 
 <section>
-
-## Parlament si odhlasoval
 
 imunitu proti chřipce  
 a potom i proti rýmě  

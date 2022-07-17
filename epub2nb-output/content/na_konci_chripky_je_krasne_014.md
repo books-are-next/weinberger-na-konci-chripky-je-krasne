@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Já bych chtěl jíst!
+contentType: poetry
 ---
 
 <section>
-
-## Já bych chtěl jíst!
 
 Ty bys zas jed?  
 Já bych zas jed.  

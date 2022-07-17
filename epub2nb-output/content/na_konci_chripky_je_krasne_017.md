@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Jsem vyhořelé palivo
+contentType: poetry
 ---
 
 <section>
-
-## Jsem vyhořelé palivo
 
 které si samo hledá úložiště  
 Jsem vyhořelé palivo  

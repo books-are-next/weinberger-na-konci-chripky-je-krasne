@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Mrakodrap chytil rýmu
+contentType: poetry
 ---
 
 <section>
-
-## Mrakodrap chytil rýmu
 
 do oblak kštice ční mu  
 Mrakodrap, Mrakodrap  

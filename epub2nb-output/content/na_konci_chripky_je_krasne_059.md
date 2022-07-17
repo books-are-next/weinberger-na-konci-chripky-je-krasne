@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: V jediném dešti
+contentType: poetry
 ---
 
 <section>
-
-## V jediném dešti
 
 jsou všechny deště  
 a ve všech deštích  

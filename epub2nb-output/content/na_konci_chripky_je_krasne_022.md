@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Když usnu
+contentType: poetry
 ---
 
 <section>
-
-## Když usnu
 
 vzbudí se ve mně rostlina  
 a když se vzbudí  
