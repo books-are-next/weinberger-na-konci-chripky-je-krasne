@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Charisma Charisma
+contentType: poetry
 ---
 
 <section>
-
-## Charisma Charisma
 
 Vyhrála ho babizna  
 vyhrála ho v tombole  

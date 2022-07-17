@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: S ječným zrnem, žitným lánem
+contentType: poetry
 ---
 
 <section>
-
-## S ječným zrnem, žitným lánem
 
 nad rozbitým eroplánem  
 spatřili jsme za topolem  

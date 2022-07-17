@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nevolte královnu krásy
+contentType: poetry
 ---
 
 <section>
-
-## Nevolte královnu krásy
 
 Volte Miss Kompromis  
 Nevolte královnu krásy  

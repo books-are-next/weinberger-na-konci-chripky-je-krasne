@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Do české pneumatiky
+contentType: poetry
 ---
 
 <section>
-
-## Do české pneumatiky
 
 český vzduch!
 

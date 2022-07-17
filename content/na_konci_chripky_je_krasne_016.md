@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Jsem povahou oblak
+contentType: poetry
 ---
 
 <section>
-
-## Jsem povahou oblak
 
 jak tulák Charlie  
 Vlkodlak žárlí  

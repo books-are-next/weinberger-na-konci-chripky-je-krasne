@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Usměvavý pan Nykodým
+contentType: poetry
 ---
 
 <section>
-
-## Usměvavý pan Nykodým
 
 pracoval jako anonym
 

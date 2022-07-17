@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Dobře vím, že jsi šedivá
+contentType: poetry
 ---
 
 <section>
-
-## Dobře vím, že jsi šedivá
 
 Mozková kůro!  
 Blátivá, scvrklá a lenivá  

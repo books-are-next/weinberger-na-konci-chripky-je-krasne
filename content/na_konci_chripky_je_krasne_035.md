@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Největší jáma je Fudžijáma
+contentType: poetry
 ---
 
 <section>
-
-## Největší jáma je Fudžijáma
 
 Pokud to ovšem není fáma
 

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Skáče, skáče ranní ptáče
+contentType: poetry
 ---
 
 <section>
-
-## Skáče, skáče ranní ptáče
 
 přes přeskáče, přes přeskáče
 

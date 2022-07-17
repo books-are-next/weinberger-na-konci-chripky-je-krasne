@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kyslíkem zpitý potápěč
+contentType: poetry
 ---
 
 <section>
-
-## Kyslíkem zpitý potápěč
 
 při vynoření vždycky říkal Heč!  
 Všichni ho měli plné zuby  

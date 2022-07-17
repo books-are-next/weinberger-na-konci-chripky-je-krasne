@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Zaslechl jeden policist
+contentType: poetry
 ---
 
 <section>
-
-## Zaslechl jeden policist
 
 vlastní píšťalky ostrý svist
 

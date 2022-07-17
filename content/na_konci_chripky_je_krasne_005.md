@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Až od Aše až po Kocourkov
+contentType: poetry
 ---
 
 <section>
-
-## Až od Aše až po Kocourkov
 
 budu mít všeho až až
 

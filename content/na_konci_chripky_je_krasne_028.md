@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Mám starosti
+contentType: poetry
 ---
 
 <section>
-
-## Mám starosti
 
 staré kosti  
 staré kosti  

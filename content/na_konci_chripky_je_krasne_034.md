@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nejmenovaný astronom
+contentType: poetry
 ---
 
 <section>
-
-## Nejmenovaný astronom
 
 Z Veselí nad Lužnicí  
 Zrestiuoval Gastronom  

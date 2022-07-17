@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: To nebyl pasák
+contentType: poetry
 ---
 
 <section>
-
-## To nebyl pasák
 
 to byl lampasák  
 a požádal mě o hasák  

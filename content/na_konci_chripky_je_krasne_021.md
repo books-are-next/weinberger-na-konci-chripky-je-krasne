@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kdykoliv spadnu z lešení
+contentType: poetry
 ---
 
 <section>
-
-## Kdykoliv spadnu z lešení
 
 je z toho delší léčení  
 a když jsem zdráv a zrovna nezdím  

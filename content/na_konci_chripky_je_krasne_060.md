@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Viděl jsem na dně kaňonu
+contentType: poetry
 ---
 
 <section>
-
-## Viděl jsem na dně kaňonu
 
 stát po kolena v ozónu  
 stádo macatých bizonů

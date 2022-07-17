@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Na konci chřipky je krásně
+contentType: poetry
 ---
 
 <section>
-
-## Na konci chřipky je krásně
 
 Jen šuplérou bych změřil dráhu  
 která mi schází k úsměvu

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kluci a holky z masmédií
+contentType: poetry
 ---
 
 <section>
-
-## Kluci a holky z masmédií
 
 ti si žijou  
 Rožnovské hodiny  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Náměsíčná žaluzie
+contentType: poetry
 ---
 
 <section>
-
-## Náměsíčná žaluzie
 
 ze žalu žije  
 ze žalu žije

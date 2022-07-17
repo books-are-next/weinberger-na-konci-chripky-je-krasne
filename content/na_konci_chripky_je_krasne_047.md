@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Říkal mi jeden lodivod
+contentType: poetry
 ---
 
 <section>
-
-## Říkal mi jeden lodivod
 
 že mu jde kolikrát o život  
 když rozkatí se živly  

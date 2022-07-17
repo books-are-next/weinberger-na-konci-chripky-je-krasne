@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Každý je svého štěstí
+contentType: poetry
 ---
 
 <section>
-
-## Každý je svého štěstí
 
 bourcem morušovým  
 každý je svého štěstí  

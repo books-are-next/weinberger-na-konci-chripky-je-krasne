@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Poznal jsem príma balerínu
+contentType: poetry
 ---
 
 <section>
-
-## Poznal jsem príma balerínu
 
 ta nezná kašel, ani rýmu
 

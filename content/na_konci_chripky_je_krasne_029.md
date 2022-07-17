@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Mé bio-hodiny
+contentType: poetry
 ---
 
 <section>
-
-## Mé bio-hodiny
 
 na poplach bijou  
 Mé bio-hodiny  

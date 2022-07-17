@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kobercový nálet
+contentType: poetry
 ---
 
 <section>
-
-## Kobercový nálet
 
 létajících koberců  
 žít a nezahálet  

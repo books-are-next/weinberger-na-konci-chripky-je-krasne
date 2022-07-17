@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Každý den špatně začíná
+contentType: poetry
 ---
 
 <section>
-
-## Každý den špatně začíná
 
 oč krásnější je zůstat spáčem  
 Probuzení je vteřina  

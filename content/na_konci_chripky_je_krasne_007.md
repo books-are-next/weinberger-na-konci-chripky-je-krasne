@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Byla jak obrázek
+contentType: poetry
 ---
 
 <section>
-
-## Byla jak obrázek
 
 který mě provázel  
 jak šelest na poušti  

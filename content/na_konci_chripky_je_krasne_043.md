@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Potkalo se moje Ego
+contentType: poetry
 ---
 
 <section>
-
-## Potkalo se moje Ego
 
 na kladině s jeho Ego  
 A že to byl kolega  

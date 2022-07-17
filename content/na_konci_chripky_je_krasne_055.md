@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ubývá mi mezer mezi zuby
+contentType: poetry
 ---
 
 <section>
-
-## Ubývá mi mezer mezi zuby
 
 zvedá se jižní vítr  
 z tvých ramen blýskl flitr  

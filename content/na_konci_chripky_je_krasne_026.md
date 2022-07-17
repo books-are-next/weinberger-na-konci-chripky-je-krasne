@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Lidský trup v písku ztroskotán
+contentType: poetry
 ---
 
 <section>
-
-## Lidský trup v písku ztroskotán
 
 vysílen leží trojskokan  
 ze všech stran běží lékaři
