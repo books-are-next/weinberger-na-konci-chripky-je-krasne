@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "weinberger-na-konci-chripky-je-krasne-64c6440",
-  "revision": "64c6440",
+  "identifier": "weinberger-na-konci-chripky-je-krasne-6bfb3c2",
+  "revision": "6bfb3c2",
   "readingOrder": [
     "promo.html",
     "na_konci_chripky_je_krasne_005.html",
@@ -75,8 +75,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jul 22 2022 15:07:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658502462479
+    "date": "Thu Sep 29 2022 21:38:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487510716
   },
   "documents": [
     {
