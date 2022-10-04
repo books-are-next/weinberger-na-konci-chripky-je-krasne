@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "weinberger-na-konci-chripky-je-krasne-0e752fb",
-  "revision": "0e752fb",
+  "identifier": "weinberger-na-konci-chripky-je-krasne-459d6fa",
+  "revision": "459d6fa",
   "readingOrder": [
     "promo.html",
     "na_konci_chripky_je_krasne_005.html",
@@ -75,8 +75,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:08:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640483263
+    "date": "Tue Oct 04 2022 16:56:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902574190
   },
   "documents": [
     {
@@ -1294,9 +1294,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 132,
+      "words": 131,
       "chars": 853,
-      "ideas": 14,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "na_konci_chripky_je_krasne_064.html",
@@ -1314,9 +1314,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3656,
+      "words": 3655,
       "chars": 19584,
-      "ideas": 966
+      "ideas": 965
     },
     "chapters": {
       "words": 3515,
