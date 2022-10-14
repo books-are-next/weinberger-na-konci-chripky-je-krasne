@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2820-5
 readingOrder:
   - promo.html
   - na_konci_chripky_je_krasne_005.html
